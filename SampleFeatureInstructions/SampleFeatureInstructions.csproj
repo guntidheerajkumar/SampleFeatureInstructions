@@ -138,7 +138,6 @@
         <Compile Include="Utility.cs" />
         <Compile Include="MaterialShowcaseExtension.cs" />
         <Compile Include="MaterialShowcase.cs" />
-        <Compile Include="IMaterialShowcaseDelegate.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
